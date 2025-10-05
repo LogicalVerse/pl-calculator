@@ -1,0 +1,5 @@
+{"operation": "add", "numbers": [2, 4]}
+{"operation": "mul", "numbers": [2, 4]}
+{"operation": "add", "numbers": [1, 3, 5]}
+{"operation": "mul", "numbers": [2, 8]}
+{"operation": "sqrt", "number": 4}
